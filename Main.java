@@ -1,6 +1,3 @@
-import java.util.Arrays;
-import java.util.Random;
-import javax.sound.midi.*;
 import java.util.*;
 
 public class Main {
